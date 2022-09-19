@@ -1,0 +1,10 @@
+a=int(input("Enter a first no. :"))
+b=int(input("Enter a second no. :"))
+c=int(input("Enter a Third no. :"))
+d=int(input("Enter a fourth no. :"))
+e=int(input("Enter a fifth no. :"))
+f=int(input("Enter a sixth no. :"))
+g=int(input("Enter a seventh no. :"))
+h=int(input("Enter a eight no. :"))
+s={a,b,c,d,e,f,g,h}
+print(s)

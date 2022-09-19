@@ -1,0 +1,5 @@
+name=input("Enter your name : ")
+marks=input("Enter your marks : ")
+phone_no=input("Enter your phone no. : ")
+a="The name of the student is {} , his marks are {} and phone no. is {}".format(name,marks,phone_no)
+print(a)

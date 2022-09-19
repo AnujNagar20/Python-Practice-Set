@@ -1,0 +1,6 @@
+f=open('another.txt','w')
+d=f.write("Virat is a good player ")
+e=f.write("He is a good player")
+print(d)
+print(e)
+f.close()
